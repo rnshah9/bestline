@@ -1,0 +1,5 @@
+project: rnshah9/bestline
+target: bestline
+
+cmds:
+  - cmd: /repo/bestline_example
