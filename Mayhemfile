@@ -2,4 +2,4 @@ project: bestline
 target: bestline-example
 
 cmds:
-  - cmd: /repo/bestline_example
+  - cmd: /bestline_example
